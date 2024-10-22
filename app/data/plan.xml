@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<plans>
+    <plan>
+        <week_id>1</week_id>
+        <employee_id>1</employee_id>
+        <hours>8</hours>
+    </plan>
+</plans>

@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<employees>
+    <employee>
+        <id>1</id>
+        <name>John Doe</name>
+        <team_id>1</team_id>
+        <team_name>Team A</team_name>
+    </employee>
+</employees>

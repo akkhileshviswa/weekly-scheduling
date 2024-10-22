@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<weeks>
+    <week>
+        <id>1</id>
+        <name>Week 1</name>
+        <from_date>2024-10-01</from_date>
+        <to_date>2024-10-07</to_date>
+    </week>
+</weeks>
